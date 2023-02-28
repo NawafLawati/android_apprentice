@@ -6,4 +6,4 @@ A repository for me to showcase what I have learned in the book Android Apprenti
 
 Things done so far: 
 
-Timefighter App: Chapters 1-5
+Timefighter Game: Chapters 1-5
