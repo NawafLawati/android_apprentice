@@ -7,6 +7,10 @@ android {
     namespace 'com.nawaf.listmaker'
     compileSdk 33
 
+    buildFeatures {
+        viewBinding true
+    }
+
     defaultConfig {
         applicationId "com.nawaf.listmaker"
         minSdk 22
